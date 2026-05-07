@@ -1,0 +1,380 @@
+[
+  {
+    "timestamp": 1778193649558000,
+    "id": "efl-0",
+    "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83ba82d8487dfe",
+      "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193649558000
+    }
+  },
+  {
+    "timestamp": 1778193648153000,
+    "id": "efl-1",
+    "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83ba7918e57dfe",
+      "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193648153000
+    }
+  },
+  {
+    "timestamp": 1778193612309000,
+    "id": "efl-2",
+    "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83b999dae97dfe",
+      "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193612309000
+    }
+  },
+  {
+    "timestamp": 1778193520892000,
+    "id": "efl-3",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83b75a8a1a7df7",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193520892000
+    }
+  },
+  {
+    "timestamp": 1778193487343000,
+    "id": "efl-4",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83b688bd5bdf55",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193487343000
+    }
+  },
+  {
+    "timestamp": 1778193342729000,
+    "id": "efl-5",
+    "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83b3051e017dfe",
+      "event_message": "GET https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://id-preview--09b897f1-3284-414e-8fad-ed70a4cfc831.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193342729000
+    }
+  },
+  {
+    "timestamp": 1778193335363000,
+    "id": "efl-6",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83b2d3082e3709",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193335363000
+    }
+  },
+  {
+    "timestamp": 1778193028027000,
+    "id": "efl-7",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83ab51bf1e7deb",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778193028027000
+    }
+  },
+  {
+    "timestamp": 1778192762490000,
+    "id": "efl-8",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83a4d67ddf37a6",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778192762490000
+    }
+  },
+  {
+    "timestamp": 1778192585503000,
+    "id": "efl-9",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83a07faaedbca1",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778192585503000
+    }
+  },
+  {
+    "timestamp": 1778192318578000,
+    "id": "efl-10",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f8399fefe047e09",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778192318578000
+    }
+  },
+  {
+    "timestamp": 1778192166001000,
+    "id": "efl-11",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f839645ecd7d884",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778192166001000
+    }
+  },
+  {
+    "timestamp": 1778191970266000,
+    "id": "efl-12",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f83917f0adbf249",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191970266000
+    }
+  },
+  {
+    "timestamp": 1778191882577000,
+    "id": "efl-13",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f838f5868dc7df4",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191882577000
+    }
+  },
+  {
+    "timestamp": 1778191837541000,
+    "id": "efl-14",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f838e416f53cccb",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191837541000
+    }
+  },
+  {
+    "timestamp": 1778191823165000,
+    "id": "efl-15",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f838de6fad77df4",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191823165000
+    }
+  },
+  {
+    "timestamp": 1778191501683000,
+    "id": "efl-16",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f8386092cd54ecb",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191501683000
+    }
+  },
+  {
+    "timestamp": 1778191365284000,
+    "id": "efl-17",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f8382b86fbda10e",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191365284000
+    }
+  },
+  {
+    "timestamp": 1778191233767000,
+    "id": "efl-18",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f837f823f3d7deb",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191233767000
+    }
+  },
+  {
+    "timestamp": 1778191024485000,
+    "id": "efl-19",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f837a681ebbf235",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778191024485000
+    }
+  },
+  {
+    "timestamp": 1778190507706000,
+    "id": "efl-20",
+    "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+    "log_level": "info",
+    "details": {
+      "cf_ray": "9f836dc7c8317e0d",
+      "event_message": "GET https://httpsvelozsolutionscombr.lovable.app/ → 200 (ok)",
+      "log_level": "info",
+      "outcome": "ok",
+      "request_method": "GET",
+      "request_url": "https://httpsvelozsolutionscombr.lovable.app/",
+      "response_status": 200,
+      "script_name": "",
+      "source": "request",
+      "timestamp": 1778190507706000
+    }
+  }
+]
